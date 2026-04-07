@@ -20,6 +20,3 @@ jobs:
 
       - name: step-2
         run: echo "this is my second step"
-
-      - name: pipeline break
-        run: echo "pipeline fixed"
